@@ -66,10 +66,10 @@ _Aucun (US fonctionnelle)_
 
 | Sprint | Dés lancés | Critères validés | Statut |
 |--------|------------|------------------|--------|
-| 0 | Critère 1 |   |  - |
-| 0 | Critère 2 |   |  - |
-| 0 | Critère 3 |   |  - |
-| 0 | Critère 4 |   |  - |
+| 0 | Critère 1 | oui 1 coup  |  - |
+| 0 | Critère 2 | oui 4 coup  |  - |
+| 0 | Critère 3 | oui 2 coup  |  - |
+| 0 | Critère 4 | oui 8 coup  |  - |
 
 ---
 
