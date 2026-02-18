@@ -64,16 +64,16 @@ _Aucun (US fonctionnelle)_
 
 ### Historique des tentatives
 
-| Sprint | EPIC | Dés lancés | Critères validés | Statut |
+| Sprint | type | Dés lancés | Critères validés | Statut |
 |--------|------|------------|------------------|--------|
-| 0 | 01 | Critère 1 |   |  terminer 1 coup |
-| 0 | 01 | Critère 2 |   |  terminer 4 coup |
-| 0 | 01 | Critère 3 |   |  terminer 2 coup |
-| 0 | 01 | Critère 4 |   |  terminer 8 coup |
-| 0 | 02 | Critère 1 |   |  terminer 2 coup |
-| 0 | 02 | Critère 2 |   |  terminer 2 coup |
-| 0 | 02 | Critère 3 |   |  terminer 1 coup |
-| 0 | 02 | Critère 4 |   |  terminer 2 coup |
+| 0 | FM01 | Critère 1 |   |  terminer 1 coup |
+| 0 | FM01 | Critère 2 |   |  terminer 4 coup |
+| 0 | FM01 | Critère 3 |   |  terminer 2 coup |
+| 0 | FM01 | Critère 4 |   |  terminer 8 coup |
+| 0 | FM02 | Critère 1 |   |  terminer 2 coup |
+| 0 | FM02 | Critère 2 |   |  terminer 2 coup |
+| 0 | FM02 | Critère 3 |   |  terminer 1 coup |
+| 0 | FM02 | Critère 4 |   |  terminer 2 coup |
 ---
 
 ## Définition of Done (DoD)
