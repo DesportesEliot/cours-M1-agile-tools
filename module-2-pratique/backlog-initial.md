@@ -31,8 +31,8 @@
 | EPIC-1-FM-4  | En tant qu'**artisan**, je veux **modifier mon profil** (nom, bio, photo) afin de **présenter mon activité**                                                                                                    | 8 | ?      | ? |
 | EPIC-1-FM-5  | En tant qu'**client**, je veux **créer un compte** afin de **passer des commandes**                                                                                                                             | 2 | ?      | ? |
 | EPIC-1-FM-6  | En tant qu'**client**, je veux **me connecter** afin d'**accéder à mes commandes**                                                                                                                              | 2 | ?      | ? |
-| EPIC-1-FM-7 | En tant qu'**utilisateur**, je veux **gérer mon compte avec toutes les options de  notifications, préférences, gestion des données personnelles et historique d'activité** afin d'**avoir un contrôle complet** | ? | 77     | ? |
-| EPIC-1-FM-8 | En tant qu'**utilisateur**, je veux **améliorer ma sécurité** afin d'**être protégé**                                                                                                                           | ? | 45     | ? |
+| EPIC-1-FM-7 | En tant qu'**utilisateur**, je veux **gérer mon compte avec toutes les options de  notifications, préférences, gestion des données personnelles et historique d'activité** afin d'**avoir un contrôle complet** | 5 | 77     | ? |
+| EPIC-1-FM-8 | En tant qu'**utilisateur**, je veux **améliorer ma sécurité** afin d'**être protégé**                                                                                                                           | 8 | 45     | ? |
 
 ---
 
