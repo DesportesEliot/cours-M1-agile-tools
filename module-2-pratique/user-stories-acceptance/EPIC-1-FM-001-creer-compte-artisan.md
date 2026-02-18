@@ -64,16 +64,38 @@ _Aucun (US fonctionnelle)_
 
 ### Historique des tentatives
 
-| Sprint | type | Dés lancés | Critères validés | Statut |
-|--------|------|------------|------------------|--------|
-| 0 | FM01 | Critère 1 |   |  terminer 1 coup |
-| 0 | FM01 | Critère 2 |   |  terminer 4 coup |
-| 0 | FM01 | Critère 3 |   |  terminer 2 coup |
-| 0 | FM01 | Critère 4 |   |  terminer 8 coup |
-| 0 | FM02 | Critère 1 |   |  terminer 2 coup |
-| 0 | FM02 | Critère 2 |   |  terminer 2 coup |
-| 0 | FM02 | Critère 3 |   |  terminer 1 coup |
-| 0 | FM02 | Critère 4 |   |  terminer 2 coup |
+| Sprint | type | Dés lancés | Critères validés | Statut | valeur metier|
+|--------|------|------------|------------------|--------|--------------|
+| 0 | FM01 | Critère 1 | - **Valeur du dé** : 🎲 **1**  |  terminer 1 coup | |
+| 0 | FM01 | Critère 2 | - **Valeur du dé** : 🎲 **4**  |  terminer 4 coup | |
+| 0 | FM01 | Critère 3 | - **Valeur du dé** : 🎲 **3**  |  terminer 2 coup | |
+| 0 | FM01 | Critère 4 | - **Valeur du dé** : 🎲 **5**  |  terminer 8 coup | +3 |
+| 0 | FM02 | Critère 1 | - **Valeur du dé** : 🎲 Tirer **2 ou +**  |  terminer 2 coup | |
+| 0 | FM02 | Critère 2 | - **Valeur du dé** : 🎲 Tirer **3 ou +**  |  terminer 2 coup | |
+| 0 | FM02 | Critère 3 | - **Valeur du dé** : 🎲 Tirer **4 ou +**  |  terminer 1 coup | +4 |
+| 1 | FM03 | Critère 1 | - **Valeur du dé** : 🎲 Tirer **5**  |  terminer 1 coup | |
+| 1 | FM03 | Critère 2 | - **Valeur du dé** : 🎲 Tirer **4 ou +**  |  terminer 1 coup | |
+| 1 | FM03 | Critère 3 | - **Valeur du dé** : 🎲 Tirer **5 ou +**  |  terminer 3 coup | |
+| 1 | FM03 | Critère 4 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer 1 coup | |
+| 1 | FM03 | Critère 5 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer 1 coup | |
+| 1 | FM03 | Critère 6 | - **Valeur du dé** : 🎲 Tirer **3 ou +**  |  terminer 2 coup | |
+| 1 | FM03 | Critère 7 | - **Valeur du dé** : 🎲 Tirer **1**  |  terminer 1 coup | |
+| 1 | FM03 | Critère 8 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer 2 coup | |
+| 1 | FM03 | Critère 9 | - **Valeur du dé** : 🎲 Tirer **pair**  |  terminer 1 coup | +3 |
+| 1 | FM04 | Critère 1 | - **Valeur du dé** : 🎲 Tirer **2 ou +**  |  terminer 1 coup | |
+| 1 | FM04 | Critère 2 | - **Valeur du dé** : 🎲 Tirer **3 ou +**  |  terminer 1 coup | |
+| 1 | FM04 | Critère 3 | - **Valeur du dé** : 🎲 Tirer **4 ou +** |  terminer 2 coup | |
+| 1 | FM04 | Critère 4 | - **Valeur du dé** : 🎲 Tirer **5 ou +**  |  terminer 10 coup | |
+| 1 | FM04 | Critère 5 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer 12 coup | +3 |
+| 1 | FM05 | Critère 1 | - **Valeur du dé** : 🎲 Tirer **2 ou +**  |  terminer 1 coup | |
+| 1 | FM05 | Critère 2 | - **Valeur du dé** : 🎲 Tirer **3 ou +**  |  terminer2 coup | |
+| 1 | FM05 | Critère 3 | - **Valeur du dé** : 🎲 Tirer **4 ou +**  |  terminer 3 coup | +2 |
+| 1 | FM06 | Critère 1 | - **Valeur du dé** : 🎲 Tirer **2 ou +**  |  terminer 2 coup | |
+| 1 | FM06 | Critère 2 | - **Valeur du dé** : 🎲 Tirer **3 ou +**  |  terminer 1 coup | |
+| 1 | FM06 | Critère 3 | - **Valeur du dé** : 🎲 Tirer **4 ou +**  |  terminer 1 coup | +5 |
+
+
+
 ---
 
 ## Définition of Done (DoD)
