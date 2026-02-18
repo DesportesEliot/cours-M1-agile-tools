@@ -94,7 +94,52 @@ _Aucun (US fonctionnelle)_
 | 1 | FM06 | Critère 2 | - **Valeur du dé** : 🎲 Tirer **3 ou +**  |  terminer 1 coup | |
 | 1 | FM06 | Critère 3 | - **Valeur du dé** : 🎲 Tirer **4 ou +**  |  terminer 1 coup | +5 |
 
+| 2 | FM07 | Critère 1 | - **Valeur du dé** : 🎲 Tirer **5**  |  terminer ? coup | |
+| 2 | FM07 | Critère 2 | - **Valeur du dé** : 🎲 Tirer **4 ou +**  |  terminer ? coup | |
+| 2 | FM07 | Critère 3 | - **Valeur du dé** : 🎲 Tirer **5 ou +**  |  terminer ? coup | |
+| 2 | FM07 | Critère 4 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer ? coup | |
+| 2 | FM07 | Critère 5 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer ? coup | |
+| 2 | FM07 | Critère 6 | - **Valeur du dé** : 🎲 Tirer **3 ou +**  |  terminer ? coup | |
+| 2 | FM07 | Critère 7 | - **Valeur du dé** : 🎲 Tirer **1**  |  terminer ? coup | |
+| 2 | FM07 | Critère 8 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer ? coup | |
+| 2 | FM07 | Critère 9 | - **Valeur du dé** : 🎲 Tirer **pair**  |  terminer ? coup | |
+| 2 | FM07 | Critère 1 | - **Valeur du dé** : 🎲 Tirer **5**  |  terminer ? coup | |
+| 2 | FM07 | Critère 2 | - **Valeur du dé** : 🎲 Tirer **4 ou +**  |  terminer ? coup | |
+| 2 | FM07 | Critère 3 | - **Valeur du dé** : 🎲 Tirer **5 ou +**  |  terminer ? coup | |
+| 2 | FM07 | Critère 4 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer ? coup | |
+| 2 | FM07 | Critère 5 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer ? coup | |
+| 2 | FM07 | Critère 6 | - **Valeur du dé** : 🎲 Tirer **3 ou +**  |  terminer ? coup | |
+| 2 | FM07 | Critère 7 | - **Valeur du dé** : 🎲 Tirer **1**  |  terminer ? coup | |
+| 2 | FM07 | Critère 8 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer ? coup | |
+| 2 | FM07 | Critère 9 | - **Valeur du dé** : 🎲 Tirer **pair**  |  terminer ? coup | |
+| 2 | FM07 | Critère 1 | - **Valeur du dé** : 🎲 Tirer **5**  |  terminer ? coup | |
+| 2 | FM07 | Critère 2 | - **Valeur du dé** : 🎲 Tirer **4 ou +**  |  terminer ? coup | |
+| 2 | FM07 | Critère 3 | - **Valeur du dé** : 🎲 Tirer **5 ou +**  |  terminer ? coup | |
+| 2 | FM07 | Critère 4 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer ? coup | |
+| 2 | FM07 | Critère 5 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer ? coup | |
+| 2 | FM07 | Critère 6 | - **Valeur du dé** : 🎲 Tirer **3 ou +**  |  terminer ? coup | |
+| 2 | FM07 | Critère 7 | - **Valeur du dé** : 🎲 Tirer **1**  |  terminer ? coup | |
+| 2 | FM07 | Critère 8 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer ? coup | |
+| 2 | FM07 | Critère 9 | - **Valeur du dé** : 🎲 Tirer **pair**  |  terminer ? coup | +77 |
 
+| 3 | FM08 | Critère 1 | - **Valeur du dé** : 🎲 Tirer **5**  |  terminer ? coup | |
+| 3 | FM08 | Critère 2 | - **Valeur du dé** : 🎲 Tirer **4 ou +**  |  terminer ? coup | |
+| 3 | FM08 | Critère 3 | - **Valeur du dé** : 🎲 Tirer **5 ou +**  |  terminer ? coup | |
+| 3 | FM08 | Critère 4 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer ? coup | |
+| 3 | FM08 | Critère 5 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer ? coup | |
+| 3 | FM08 | Critère 6 | - **Valeur du dé** : 🎲 Tirer **3 ou +**  |  terminer ? coup | |
+| 3 | FM08 | Critère 7 | - **Valeur du dé** : 🎲 Tirer **1**  |  terminer ? coup | |
+| 3 | FM08 | Critère 8 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer ? coup | |
+| 3 | FM08 | Critère 9 | - **Valeur du dé** : 🎲 Tirer **pair**  |  terminer ? coup | |
+| 3 | FM08 | Critère 1 | - **Valeur du dé** : 🎲 Tirer **5**  |  terminer ? coup | |
+| 3 | FM08 | Critère 2 | - **Valeur du dé** : 🎲 Tirer **4 ou +**  |  terminer ? coup | |
+| 3 | FM08 | Critère 3 | - **Valeur du dé** : 🎲 Tirer **5 ou +**  |  terminer ? coup | |
+| 3 | FM08 | Critère 4 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer ? coup | |
+| 3 | FM08 | Critère 5 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer ? coup | |
+| 3 | FM08 | Critère 6 | - **Valeur du dé** : 🎲 Tirer **3 ou +**  |  terminer ? coup | |
+| 3 | FM08 | Critère 7 | - **Valeur du dé** : 🎲 Tirer **1**  |  terminer ? coup | |
+| 3 | FM08 | Critère 8 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer ? coup | |
+| 3 | FM08 | Critère 9 | - **Valeur du dé** : 🎲 Tirer **pair**  |  terminer ? coup | +45 |
 
 ---
 
