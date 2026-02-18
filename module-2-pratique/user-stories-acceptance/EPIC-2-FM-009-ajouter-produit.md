@@ -75,15 +75,13 @@ _Aucun (US fonctionnelle)_
 
 ### Historique des tentatives
 
-| Sprint | Dés lancés | Critères validés | Statut |
-|--------|------------|------------------|--------|
-|  | - | - | ⏳ Pas encore jouée |
-|   |   |   |  - |
-|   |   |   |  - |
-|   |   |   |  - |
-|   |   |   |  - |
-|   |   |   |  - |
-
+| Sprint | type | Dés lancés | Critères validés | Statut | valeur metier|
+|--------|------|------------|------------------|--------|--------------|
+| 3 | FM09 | Critère 1 | - **Valeur du dé** : 🎲 **2**  |  terminer 1 coup | |
+| 3 | FM09 | Critère 2 | - **Valeur du dé** : 🎲 **5**  |  terminer 4 coup | |
+| 3 | FM09 | Critère 3 | - **Valeur du dé** : 🎲 **3**  |  terminer 1 coup | |
+| 3 | FM09 | Critère 4 | - **Valeur du dé** : 🎲 **4**  |  terminer 15 coup | |
+| 3 | FM09 | Critère 5 | - **Valeur du dé** : 🎲 **6**  |  terminer 3 coup | |
 ---
 
 ## Définition of Done (DoD)
