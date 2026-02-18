@@ -66,14 +66,14 @@ _Aucun (US fonctionnelle)_
 
 | Sprint | EPIC | Dés lancés | Critères validés | Statut |
 |--------|------|------------|------------------|--------|
-| 0 | 01 | Critère 1 |   |  oui 1 coup |
-| 0 | 01 | Critère 2 |   |  oui 4 coup |
-| 0 | 01 | Critère 3 |   |  oui 2 coup |
-| 0 | 01 | Critère 4 |   |  oui 8 coup |
-| 0 | 02 | Critère 1 |   |  oui 2 coup |
-| 0 | 02 | Critère 2 |   |  oui 2 coup |
-| 0 | 02 | Critère 3 |   |  oui 1 coup |
-| 0 | 02 | Critère 4 |   |  oui 2 coup |
+| 0 | 01 | Critère 1 |   |  terminer 1 coup |
+| 0 | 01 | Critère 2 |   |  terminer 4 coup |
+| 0 | 01 | Critère 3 |   |  terminer 2 coup |
+| 0 | 01 | Critère 4 |   |  terminer 8 coup |
+| 0 | 02 | Critère 1 |   |  terminer 2 coup |
+| 0 | 02 | Critère 2 |   |  terminer 2 coup |
+| 0 | 02 | Critère 3 |   |  terminer 1 coup |
+| 0 | 02 | Critère 4 |   |  terminer 2 coup |
 ---
 
 ## Définition of Done (DoD)
