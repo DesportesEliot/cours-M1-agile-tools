@@ -93,53 +93,57 @@ _Aucun (US fonctionnelle)_
 | 1 | FM06 | Critère 1 | - **Valeur du dé** : 🎲 Tirer **2 ou +**  |  terminer 2 coup | |
 | 1 | FM06 | Critère 2 | - **Valeur du dé** : 🎲 Tirer **3 ou +**  |  terminer 1 coup | |
 | 1 | FM06 | Critère 3 | - **Valeur du dé** : 🎲 Tirer **4 ou +**  |  terminer 1 coup | +5 |
-
-| 2 | FM07 | Critère 1 | - **Valeur du dé** : 🎲 Tirer **5**  |  terminer ? coup | |
-| 2 | FM07 | Critère 2 | - **Valeur du dé** : 🎲 Tirer **4 ou +**  |  terminer ? coup | |
-| 2 | FM07 | Critère 3 | - **Valeur du dé** : 🎲 Tirer **5 ou +**  |  terminer ? coup | |
-| 2 | FM07 | Critère 4 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer ? coup | |
-| 2 | FM07 | Critère 5 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer ? coup | |
-| 2 | FM07 | Critère 6 | - **Valeur du dé** : 🎲 Tirer **3 ou +**  |  terminer ? coup | |
-| 2 | FM07 | Critère 7 | - **Valeur du dé** : 🎲 Tirer **1**  |  terminer ? coup | |
-| 2 | FM07 | Critère 8 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer ? coup | |
-| 2 | FM07 | Critère 9 | - **Valeur du dé** : 🎲 Tirer **pair**  |  terminer ? coup | |
-| 2 | FM07 | Critère 1 | - **Valeur du dé** : 🎲 Tirer **5**  |  terminer ? coup | |
-| 2 | FM07 | Critère 2 | - **Valeur du dé** : 🎲 Tirer **4 ou +**  |  terminer ? coup | |
-| 2 | FM07 | Critère 3 | - **Valeur du dé** : 🎲 Tirer **5 ou +**  |  terminer ? coup | |
-| 2 | FM07 | Critère 4 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer ? coup | |
-| 2 | FM07 | Critère 5 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer ? coup | |
-| 2 | FM07 | Critère 6 | - **Valeur du dé** : 🎲 Tirer **3 ou +**  |  terminer ? coup | |
-| 2 | FM07 | Critère 7 | - **Valeur du dé** : 🎲 Tirer **1**  |  terminer ? coup | |
-| 2 | FM07 | Critère 8 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer ? coup | |
-| 2 | FM07 | Critère 9 | - **Valeur du dé** : 🎲 Tirer **pair**  |  terminer ? coup | |
-| 2 | FM07 | Critère 1 | - **Valeur du dé** : 🎲 Tirer **5**  |  terminer ? coup | |
-| 2 | FM07 | Critère 2 | - **Valeur du dé** : 🎲 Tirer **4 ou +**  |  terminer ? coup | |
-| 2 | FM07 | Critère 3 | - **Valeur du dé** : 🎲 Tirer **5 ou +**  |  terminer ? coup | |
-| 2 | FM07 | Critère 4 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer ? coup | |
-| 2 | FM07 | Critère 5 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer ? coup | |
-| 2 | FM07 | Critère 6 | - **Valeur du dé** : 🎲 Tirer **3 ou +**  |  terminer ? coup | |
-| 2 | FM07 | Critère 7 | - **Valeur du dé** : 🎲 Tirer **1**  |  terminer ? coup | |
-| 2 | FM07 | Critère 8 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer ? coup | |
-| 2 | FM07 | Critère 9 | - **Valeur du dé** : 🎲 Tirer **pair**  |  terminer ? coup | +77 |
-
-| 3 | FM08 | Critère 1 | - **Valeur du dé** : 🎲 Tirer **5**  |  terminer ? coup | |
-| 3 | FM08 | Critère 2 | - **Valeur du dé** : 🎲 Tirer **4 ou +**  |  terminer ? coup | |
-| 3 | FM08 | Critère 3 | - **Valeur du dé** : 🎲 Tirer **5 ou +**  |  terminer ? coup | |
-| 3 | FM08 | Critère 4 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer ? coup | |
-| 3 | FM08 | Critère 5 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer ? coup | |
-| 3 | FM08 | Critère 6 | - **Valeur du dé** : 🎲 Tirer **3 ou +**  |  terminer ? coup | |
-| 3 | FM08 | Critère 7 | - **Valeur du dé** : 🎲 Tirer **1**  |  terminer ? coup | |
-| 3 | FM08 | Critère 8 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer ? coup | |
-| 3 | FM08 | Critère 9 | - **Valeur du dé** : 🎲 Tirer **pair**  |  terminer ? coup | |
-| 3 | FM08 | Critère 1 | - **Valeur du dé** : 🎲 Tirer **5**  |  terminer ? coup | |
-| 3 | FM08 | Critère 2 | - **Valeur du dé** : 🎲 Tirer **4 ou +**  |  terminer ? coup | |
-| 3 | FM08 | Critère 3 | - **Valeur du dé** : 🎲 Tirer **5 ou +**  |  terminer ? coup | |
-| 3 | FM08 | Critère 4 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer ? coup | |
-| 3 | FM08 | Critère 5 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer ? coup | |
-| 3 | FM08 | Critère 6 | - **Valeur du dé** : 🎲 Tirer **3 ou +**  |  terminer ? coup | |
-| 3 | FM08 | Critère 7 | - **Valeur du dé** : 🎲 Tirer **1**  |  terminer ? coup | |
-| 3 | FM08 | Critère 8 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer ? coup | |
-| 3 | FM08 | Critère 9 | - **Valeur du dé** : 🎲 Tirer **pair**  |  terminer ? coup | +45 |
+| 2 | FM07 | Critère 1 | - **Valeur du dé** : 🎲 Tirer **5**  |  terminer 1 coup | |
+| 2 | FM07 | Critère 2 | - **Valeur du dé** : 🎲 Tirer **4 ou +**  |  terminer 1 coup | |
+| 2 | FM07 | Critère 3 | - **Valeur du dé** : 🎲 Tirer **5 ou +**  |  terminer 6 coup | |
+| 2 | FM07 | Critère 4 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer 16 coup | |
+| 2 | FM07 | Critère 6 | - **Valeur du dé** : 🎲 Tirer **3 ou +**  |  terminer 1 coup | |
+| 2 | FM07 | Critère 7 | - **Valeur du dé** : 🎲 Tirer **1**  |  terminer 9 coup | |
+| 2 | FM07 | Critère 8 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer7 coup | |
+| 2 | FM07 | Critère 9 | - **Valeur du dé** : 🎲 Tirer **pair**  |  terminer 1 coup | |
+| 2 | FM07 | Critère 1 | - **Valeur du dé** : 🎲 Tirer **5**  |  terminer 1 coup | |
+| 2 | FM07 | Critère 2 | - **Valeur du dé** : 🎲 Tirer **4 ou +**  |  terminer 1 coup | |
+| 2 | FM07 | Critère 3 | - **Valeur du dé** : 🎲 Tirer **5 ou +**  |  terminer 2 coup | |
+| 2 | FM07 | Critère 4 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer 3 coup | |
+| 2 | FM07 | Critère 5 | - **Valeur du dé** : 🎲 Tirer **3 ou +**  |  terminer 1 coup | |
+| 2 | FM07 | Critère 6 | - **Valeur du dé** : 🎲 Tirer **3 ou +**  |  terminer 5 coup | |
+| 2 | FM07 | Critère 7 | - **Valeur du dé** : 🎲 Tirer **1**  |  terminer 1 coup | |
+| 2 | FM07 | Critère 8 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer 6 coup | |
+| 2 | FM07 | Critère 9 | - **Valeur du dé** : 🎲 Tirer **pair**  |  terminer  coup | |
+| 2 | FM07 | Critère 1 | - **Valeur du dé** : 🎲 Tirer **5**  |  terminer 5 coup | |
+| 2 | FM07 | Critère 2 | - **Valeur du dé** : 🎲 Tirer **4 ou +**  |  terminer 2 coup | |
+| 2 | FM07 | Critère 3 | - **Valeur du dé** : 🎲 Tirer **5 ou +**  |  terminer 8 coup | |
+| 2 | FM07 | Critère 4 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer 5 coup | |
+| 2 | FM07 | Critère 6 | - **Valeur du dé** : 🎲 Tirer **3 ou +**  |  terminer 2 coup | |
+| 2 | FM07 | Critère 7 | - **Valeur du dé** : 🎲 Tirer **1**  |  terminer 1 coup | |
+| 2 | FM07 | Critère 8 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer 3 coup | |
+| 2 | FM07 | Critère 9 | - **Valeur du dé** : 🎲 Tirer **pair**  |  terminer 2 coup | +38.5 |
+| 3 | BUG1 | Critère 1 | - **Valeur du dé** : 🎲 **1**  |  terminer 2 coup | |
+| 3 | BUG1 | Critère 2 | - **Valeur du dé** : 🎲 **3**  |  terminer 4 coup | |
+| 3 | BUG1 | Critère 3 | - **Valeur du dé** : 🎲 **2**  |  terminer 5 coup | |
+| 3 | BUG1 | Critère 4 | - **Valeur du dé** : 🎲 **4**  |  terminer 2 coup | |
+| 3 | BUG1 | Critère 5 | - **Valeur du dé** : 🎲 **5**  |  terminer 2 coup | +0 |
+| 3 | BUG2 | Critère 1 | - **Valeur du dé** : 🎲 **1**  |  terminer 2 coup | |
+| 3 | BUG2 | Critère 2 | - **Valeur du dé** : 🎲 **3**  |  terminer 3 coup | |
+| 3 | BUG2 | Critère 3 | - **Valeur du dé** : 🎲 **2**  |  terminer 3 coup | |
+| 3 | BUG2 | Critère 4 | - **Valeur du dé** : 🎲 **4**  |  terminer 1 coup | |
+| 3 | BUG2 | Critère 5 | - **Valeur du dé** : 🎲 **5**  |  terminer 12 coup | +0 |
+| 3 | FM08 | Critère 1 | - **Valeur du dé** : 🎲 Tirer **5**  |  terminer 4 coup | |
+| 3 | FM08 | Critère 2 | - **Valeur du dé** : 🎲 Tirer **4 ou +**  |  terminer 3 coup | |
+| 3 | FM07 | Critère 3 | - **Valeur du dé** : 🎲 Tirer **5 ou +**  |  terminer 2 coup | |
+| 3 | FM08 | Critère 4 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer 4 coup | |
+| 3 | FM08 | Critère 6 | - **Valeur du dé** : 🎲 Tirer **3 ou +**  |  terminer 1 coup | |
+| 3 | FM08 | Critère 7 | - **Valeur du dé** : 🎲 Tirer **1**  |  terminer 6 coup | |
+| 3 | FM08 | Critère 8 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer 3 coup | |
+| 3 | FM08 | Critère 9 | - **Valeur du dé** : 🎲 Tirer **pair**  |  terminer 1 coup | |
+| 3 | FM08 | Critère 1 | - **Valeur du dé** : 🎲 Tirer **5**  |  terminer 5 coup | |
+| 3 | FM08 | Critère 2 | - **Valeur du dé** : 🎲 Tirer **4 ou +**  |  terminer 2 coup | |
+| 3 | FM08 | Critère 3 | - **Valeur du dé** : 🎲 Tirer **5 ou +**  |  terminer 1 coup | |
+| 3 | FM08 | Critère 4 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer 2 coup | |
+| 3 | FM08 | Critère 6 | - **Valeur du dé** : 🎲 Tirer **3 ou +**  |  terminer 1 coup | |
+| 3 | FM08 | Critère 7 | - **Valeur du dé** : 🎲 Tirer **1**  |  terminer 10 coup | |
+| 3 | FM08 | Critère 8 | - **Valeur du dé** : 🎲 Tirer **6**  |  terminer 5 coup | |
+| 3 | FM08 | Critère 9 | - **Valeur du dé** : 🎲 Tirer **pair**  |  terminer 3 coup | +22.5 |
 
 ---
 
