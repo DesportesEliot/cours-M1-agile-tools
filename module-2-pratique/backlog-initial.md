@@ -23,7 +23,7 @@
 
 ### EPIC 1 : Authentification & Comptes
 
-| ID    | User Story                                                                                                                                                                                                      | Estimation | Valeur | Priorité |
+| ID    | User Story                                                                                                                                                                                                      | Estimation complexité | Valeur metier | Priorité |
 |-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|----------|
 | EPIC-1-FM-1  | En tant qu'**artisan**, je veux **créer un compte** afin de **pouvoir vendre mes produits**                                                                                                                     | 2 | 3      | ? |
 | EPIC-1-FM-2  | En tant qu'**artisan**, je veux **me connecter avec email/mot de passe** afin d'**accéder à mon espace**                                                                                                        | 5 | 1      | ? |
