@@ -48,16 +48,16 @@ Valeur Multiplicateur DORA :
 
 ## 📋 Feuille de Score (Template)
 
-### Équipe : ___________________
+### Équipe : Nisrine - Myriam - Eliot
 
 #### 1️⃣ Valeur métier livrée (/40)
 
 | Sprint | Valeur business livrés (S/M) | XL livrés (50%)| XL échouées (-50%) | Cumul |
-|--------|------------------------------|-----------------|-----------------|-------|
-| Sprint 1 | ___                          | ___ | ___ | ___ |
-| Sprint 2 | ___                          | ___ | ___ | ___ |
-| Sprint 3 | ___                          | ___ | ___ | ___ |
-| Sprint 4 | ___                          | ___ | ___ | ___ |
+|--------|------------------------------|-----------------|-------------------|-------|
+| Sprint 0 | 7 | 0 | 0 | 4 |
+| Sprint 1 | 13 | 0 | 0 | 20 |
+| Sprint 2 | 0 | 38.5 | 0 | 58.5 |
+| Sprint 3 | 3 | 22.5 | 0 | 74 |
 
 
 
@@ -68,19 +68,26 @@ Valeur Multiplicateur DORA :
 
 ### Sur la valeur métier
 - Qu'avez-vous priorisé et pourquoi ?
+Epic 1, car c'est le premier.
 - Auriez-vous pu livrer plus de valeur ? Comment ?
+Oui, avec plus de personnes et en répartissant davantage les tâches. 
 
 ### Sur le découpage
 - Avez-vous bien estimé la complexité des tâches ?
+Ça a été fait au dé
 - Quelles tâches auraient dû être découpées différemment ?
+Les tâches XL n'ont pas été découpées, ce qui les a rendues longues malgré la chance avec les dés.
 
 ### Sur la dette technique
 - Quand avez-vous investi dans les US techniques ?
 - Les bonus ont-ils eu un impact sur votre vélocité ?
+Nous n'avons pas joué sur les bonus et avons juste continué les user stories pour avant le plus possible sur le projet.
 
 ### Sur l'excellence opérationnelle
 - Comment s'est passée la collaboration dans l'équipe ?
+L'équipe était au clair sur les tâches à réaliser et a pu faire tout ce qui lui était demandé.
 - Qu'auriez-vous fait différemment ?
+Le plus gros problème était la répartition des tâches : le Scrum Master avait beaucoup à gérer sur Jira et la modification du Git.
 
 ---
 
